@@ -3,6 +3,7 @@
 ?>
 
 <section class="box">
+hello
 <?php
   if (isset($_SESSION["useruid"])) {
     echo "<h1><a href='signup.php'>Profile page</a></h1>";
